@@ -11,6 +11,15 @@
 	<Item Name="Serial Device.ctl" Type="Class Private Data" URL="Serial Device.ctl">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
+	<Item Name="Get Port.vi" Type="VI" URL="../Get Port.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)/!!!!%!!S1(!!(A!!&amp;R64:8*J97QA2'6W;7.F,GRW9WRB=X-!%&amp;.F=GFB&lt;#"%:8:J9W5A;7Y!!!1!!!!S1(!!(A!!&amp;R64:8*J97QA2'6W;7.F,GRW9WRB=X-!%6.F=GFB&lt;#"%:8:J9W5A&lt;X6U!"Y!.`````]!"#!!A!!!!!!"!!1!!!!"!!!!!!!!!$B!=!!/"5FO=X2S!!%!!S!!A!!!!!!"!!1!!!!"!!!!!!!!%F:*5U%A=G6T&lt;X6S9W5A&lt;G&amp;N:1!!/E"Q!!Y&amp;37ZT&gt;()!!1!$)!#!!!!!!!%!"!!!!!%!!!!!!!!56EF413"S:8.P&gt;8*D:3"O97VF)$)!!!R!)1&gt;#&lt;W^M:7&amp;O!"J!1!!"`````Q!'$7*P&lt;WQA=G6T='^O=W5!$5!&amp;!!:1&gt;76S&gt;']!!"*!-0````])5G6T='^O=W5!!!R!)1:T&gt;'&amp;U&gt;8-!!!N!!Q!%9W^E:1!!%%!Q`````Q:T&lt;X6S9W5!!#"!5!!$!!I!#Q!-%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!&amp;E"1!!-!#A!,!!Q*:8*S&lt;X)A&lt;X6U!'Q!]!!1!!!!!1!"!!%!!A!%!!5!!1!(!!A!#1!.!!%!!1!"!!Y#!!%)!!#1!!!!!!!!!!!!!!!!!!!!D1!!!!A!!!!*!!!!!!!!!!E!!!!)!!!!#1!!!!A!!!!!!!!!!!!!!!!!!!!.#Q!!!!%!$Q!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
+	</Item>
 	<Item Name="Read ADC Sim.vi" Type="VI" URL="../Read ADC Sim.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;7!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!'E!Q`````R&amp;&amp;?("F9X2F:#"S:8.Q&lt;WZT:1!%!!!!-E"Q!"Y!!"=65W6S;7&amp;M)%2F&gt;GFD:3ZM&gt;G.M98.T!"&amp;4:8*J97QA2'6W;7.F)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!N!"1!&amp;1W&amp;O97Q!%%!Q`````Q:%:8:J9W5!!$*!=!!?!!!8&amp;6.F=GFB&lt;#"%:8:J9W5O&lt;(:D&lt;'&amp;T=Q!15W6S;7&amp;M)%2F&gt;GFD:3"J&lt;A!!6!$Q!!Q!!Q!%!!5!"A!&amp;!!5!"1!&amp;!!=!#!!*!!I#!!"Y!!!.#!!!#1!!!!!!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!A!!!!)!!!##!!!!*!!!!!!!1!,!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
