@@ -10,18 +10,29 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Abstract" Type="Folder" URL="../Abstract">
-			<Property Name="NI.DISK" Type="Bool">true</Property>
+		<Item Name="Abstract" Type="Folder">
+			<Item Name="Serial Device" Type="Folder" URL="../Abstract/Serial Device">
+				<Property Name="NI.DISK" Type="Bool">true</Property>
+			</Item>
 		</Item>
-		<Item Name="Implementacion" Type="Folder" URL="../Implementacion">
-			<Property Name="NI.DISK" Type="Bool">true</Property>
+		<Item Name="Implementacion" Type="Folder">
+			<Item Name="Arduino" Type="Folder" URL="../Implementacion/Arduino">
+				<Property Name="NI.DISK" Type="Bool">true</Property>
+			</Item>
+			<Item Name="NXP" Type="Folder" URL="../Implementacion/NXP">
+				<Property Name="NI.DISK" Type="Bool">true</Property>
+			</Item>
+			<Item Name="Simulated" Type="Folder" URL="../Implementacion/Simulated">
+				<Property Name="NI.DISK" Type="Bool">true</Property>
+			</Item>
 		</Item>
 		<Item Name="Support VIs" Type="Folder">
+			<Item Name="Pruebas.vi" Type="VI" URL="../Pruebas.vi"/>
+			<Item Name="Read VISA NXP.vi" Type="VI" URL="../Read VISA NXP.vi"/>
 			<Item Name="Read VISA.vi" Type="VI" URL="../Read VISA.vi"/>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
-				<Item Name="Stall Data Flow.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/Stall Data Flow.vim"/>
 				<Item Name="VISA Configure Serial Port" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Configure Serial Port"/>
 				<Item Name="VISA Configure Serial Port (Instr).vi" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Configure Serial Port (Instr).vi"/>
 				<Item Name="VISA Configure Serial Port (Serial Instr).vi" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Configure Serial Port (Serial Instr).vi"/>
