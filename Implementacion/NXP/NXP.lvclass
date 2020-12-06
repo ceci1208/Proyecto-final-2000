@@ -23,6 +23,15 @@
 	<Item Name="NXP.ctl" Type="Class Private Data" URL="NXP.ctl">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
+	<Item Name="Get Port.vi" Type="VI" URL="../Get Port.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(G!!!!%!!?1(!!(A!!$1N/7&amp;!O&lt;(:D&lt;'&amp;T=Q!'4FB1)'FO!!!%!!!!(E"Q!"Y!!!U,4FB1,GRW9WRB=X-!"UZ95#"P&gt;81!(A!X`````Q!%)!#!!!!!!!%!"!!!!!%!!!!!!!!!/%"Q!!Y&amp;37ZT&gt;()!!1!$)!#!!!!!!!%!"!!!!!%!!!!!!!!36EF413"S:8.P&gt;8*D:3"O97VF!!![1(!!$A6*&lt;H.U=A!"!!-A!)!!!!!!!1!%!!!!!1!!!!!!!"2736.")(*F=W^V=G.F)'ZB&lt;75A-A!!$%!B"U*P&lt;WRF97Y!'E"!!!(`````!!9.9G^P&lt;#"S:8.Q&lt;WZT:1!.1!5!"F"V:8*U&lt;Q!!%E!Q`````QB3:8.Q&lt;WZT:1!!$%!B"H.U982V=Q!!#U!$!!2D&lt;W2F!!!11$$`````"H.P&gt;8*D:1!!)%"1!!-!#A!,!!Q4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!71&amp;!!!Q!+!!M!$!FF=H*P=C"P&gt;81!&lt;!$Q!"!!!!!"!!%!!1!#!!1!"1!"!!=!#!!*!!U!!1!"!!%!$A-!!1A!!*)!!!!!!!!!!!!!!!!!!!#.!!!!#!!!!!E!!!!!!!!!#1!!!!A!!!!*!!!!#A!!!!!!!!!!!!!!!!!!!!U,!!!!!1!0!!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+	</Item>
 	<Item Name="Read ADC.vi" Type="VI" URL="../Read ADC.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'T!!!!$Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$U!$!!B3:8.Q&lt;WZT:1!!(A!X`````Q!%)!#!!!!!!!%!"!!!!!%!!!!!!!!!/E"Q!!Y&amp;37ZT&gt;()!!1!&amp;)!#!!!!!!!%!"!!!!!%!!!!!!!!56EF413"S:8.P&gt;8*D:3"O97VF)$)!!"Z!=!!?!!!.#UZ95#ZM&gt;G.M98.T!!&gt;/7&amp;!A&lt;X6U!""!-0````]'5X2S;7ZH!!!%!!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!,1!5!"5.B&lt;G&amp;M!$B!=!!/"5FO=X2S!!%!"3!!A!!!!!!"!!1!!!!"!!!!!!!!%F:*5U%A=G6T&lt;X6S9W5A&lt;G&amp;N:1!!(E"Q!"Y!!!U,4FB1,GRW9WRB=X-!"EZ95#"J&lt;A!!6!$Q!!Q!!Q!%!!9!"Q!)!!E!#1!*!!I!#Q!-!!U$!!"Y!!!.#!!!#1!!!!E!!!#.#Q!!#1!!!!!!!!!!!!!!!!!!!!I!!!!)!!!!#A!!!*!!!!!!!1!/!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
