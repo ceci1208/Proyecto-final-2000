@@ -23,6 +23,15 @@
 	<Item Name="Simulated.ctl" Type="Class Private Data" URL="Simulated.ctl">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
+	<Item Name="Get Pin.vi" Type="VI" URL="../Get Pin.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(A!!!!$Q!K1(!!(A!!%R&amp;4;7VV&lt;'&amp;U:71O&lt;(:D&lt;'&amp;T=Q!-5WFN&gt;7RB&gt;'6E)'FO!!!%!!!!+E"Q!"Y!!"-25WFN&gt;7RB&gt;'6E,GRW9WRB=X-!$6.J&lt;86M982F:#"P&gt;81!(A!X`````Q!%)!#!!!!!!!%!"!!!!!%!!!!!!!!!/%"Q!!Y&amp;37ZT&gt;()!!1!$)!#!!!!!!!%!"!!!!!%!!!!!!!!36EF413"S:8.P&gt;8*D:3"O97VF!!![1(!!$A6*&lt;H.U=A!"!!-A!)!!!!!!!1!%!!!!!1!!!!!!!"2736.")(*F=W^V=G.F)'ZB&lt;75A-A!!$%!B"U*P&lt;WRF97Y!#5!+!!.1;7Y!%E!Q`````QB3:8.Q&lt;WZT:1!!$%!B"H.U982V=Q!!#U!$!!2D&lt;W2F!!!11$$`````"H.P&gt;8*D:1!!)%"1!!-!#1!+!!M4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!71&amp;!!!Q!*!!I!#QFF=H*P=C"P&gt;81!&lt;!$Q!"!!!!!"!!%!!1!#!!1!"1!"!!9!"Q!)!!Q!!1!"!!%!$1-!!1A!!*)!!!!!!!!!!!!!!!!!!!#.!!!!#!!!!!E!!!!!!!!!#1!!!!A!!!!*!!!!#A!!!!!!!!!!!!!!!!!!!!U,!!!!!1!/!!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+	</Item>
 	<Item Name="Get Port.vi" Type="VI" URL="../Get Port.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(_!!!!%!!K1(!!(A!!%R&amp;4;7VV&lt;'&amp;U:71O&lt;(:D&lt;'&amp;T=Q!-5WFN&gt;7RB&gt;'6E)'FO!!!%!!!!+E"Q!"Y!!"-25WFN&gt;7RB&gt;'6E,GRW9WRB=X-!$6.J&lt;86M982F:#"P&gt;81!(A!X`````Q!%)!#!!!!!!!%!"!!!!!%!!!!!!!!!/%"Q!!Y&amp;37ZT&gt;()!!1!$)!#!!!!!!!%!"!!!!!%!!!!!!!!36EF413"S:8.P&gt;8*D:3"O97VF!!![1(!!$A6*&lt;H.U=A!"!!-A!)!!!!!!!1!%!!!!!1!!!!!!!"2736.")(*F=W^V=G.F)'ZB&lt;75A-A!!$%!B"U*P&lt;WRF97Y!'E"!!!(`````!!9.9G^P&lt;#"S:8.Q&lt;WZT:1!.1!5!"F"V:8*U&lt;Q!!%E!Q`````QB3:8.Q&lt;WZT:1!!$%!B"H.U982V=Q!!#U!$!!2D&lt;W2F!!!11$$`````"H.P&gt;8*D:1!!)%"1!!-!#A!,!!Q4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!71&amp;!!!Q!+!!M!$!FF=H*P=C"P&gt;81!&lt;!$Q!"!!!!!"!!%!!1!#!!1!"1!"!!=!#!!*!!U!!1!"!!%!$A)!!1A!!*!!!!!!!!!!!!!!!!!!!!#.!!!!#!!!!!U&amp;!!!!!!!!#1!!!!A!!!!*!!!!#!!!!!!!!!!!!!!!!!!!!!U,!!!!!1!0!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
